@@ -1,4 +1,4 @@
-# British_Airway_Analysis_and_prediction
+# British_Airways_Analysis_and_prediction
 <!DOCTYPE html>
 <html lang="en">
 <head>
